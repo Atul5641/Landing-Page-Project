@@ -1,4 +1,4 @@
-# Landing-page-project
+# Landing-Page-Project
 
 Welcome to my landing page website! This platform showcases my journey and skills.
 
