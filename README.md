@@ -1,6 +1,6 @@
 # Landing-Page-Project
 
-Welcome to my landing page website! This platform showcases my journey and skills.
+Welcome to my Landing Page website! This platform showcases my journey and skills.
 
 
 ## Authors
